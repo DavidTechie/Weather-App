@@ -4,12 +4,3 @@ This Weather App allows users to check the current weather conditions for any ci
 Demo
 Check out the live demo of my Weather App <a href="https://davidtechie.github.io/Weather-App/" target="_blank">here</a>.
 
-Table of Contents
-Features
-Technologies Used
-How to Use
-Code Structure
-Contact
-Features
-Search for current weather by city name.
-Displays temperature, weather description, humidity, and wind speed.
